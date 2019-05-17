@@ -1,2 +1,3 @@
 # hello-world
-First repository for code storage
+#First repository for code storage
+#newb coder...
